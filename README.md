@@ -12,3 +12,4 @@ This sample contains the use of Spring security with spring boot. I have impleme
 * Spring actuator.
 * Caching implementation.
 * Docker.
+* Integrate with third party single sign on provider like google or github.
